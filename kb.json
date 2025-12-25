@@ -1,0 +1,61 @@
+{
+  "showOnDate": "2026-11-06T00:00:00Z",
+  "keys": {
+    "aldi": {
+      "deviceId": "7f5205c57b40300a",
+      "expiryDate": "2026-01-26T23:59:59Z"
+    },
+    "rendi": {
+      "deviceId": "001859c8f4c4c672",
+      "expiryDate": "2026-01-21T23:59:59Z"
+    },
+    "fauzi": {
+      "deviceId": "433995e0bd4b2ca8",
+      "expiryDate": "2026-12-29T23:59:59Z"
+    },
+    "achiw": {
+      "deviceId": "a018c6cdf9ad8d95",
+      "expiryDate": "2026-01-24T23:59:59Z"
+    },
+    "iwan": {
+      "deviceId": "6a779c48402c9c5d",
+      "expiryDate": "2025-12-31T23:59:59Z"
+    },
+    "agnan": {
+      "deviceId": "d558f8217d65e58c",
+      "expiryDate": "2026-01-07T23:59:59Z"
+    },
+    "andri": {
+      "deviceId": "73e4aee5848531f7",
+      "expiryDate": "2026-01-24T23:59:59Z"
+    },
+    "farhan": {
+      "deviceId": "a8ef3ea33640c3a9",
+      "expiryDate": "2025-12-29T23:59:59Z"
+    },
+    "rizwan": {
+      "deviceId": "3ad6c0d527b62a29",
+      "expiryDate": "2025-12-28T23:59:59Z"
+    }
+  },
+  "update_dialog": {
+    "topText": "Update Available",
+    "mainQuestion": "A new version is ready!",
+    "buttonText": "Download Now",
+    "buttonClickUrl": "https://t.me/+6BPuxAEhOqpiYmY1"
+  },
+  "login_dialog": {
+    "topText": "Dibutuhkan Kode Akses!",
+    "buttonText": "Login",
+    "adminButtonText": "Admin",
+    "adminButtonUrl": "https://t.me/+6BPuxAEhOqpiYmY1"
+  },
+  "common_style": {
+    "topIconAsset": "icon.png",
+    "topIconSpin": true,
+    "animateGradient": true,
+    "buttonGradientStartColor": "#FFDAB9",
+    "buttonGradientEndColor": "#E6E6FA",
+    "buttonTextColor": "#333333"
+  }
+}
